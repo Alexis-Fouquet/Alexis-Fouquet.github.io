@@ -3,9 +3,16 @@
 }
 
 .mustread a {
-    margin: 3px;
+    margin: 5px;
     padding: 3px;
     text-decoration: none;
     color: aliceblue;
     background-color: rgb(206, 129, 14);
+    border-radius: 3px;
+}
+
+.mustread a:hover {
+    margin: 3px;
+    padding: 5px;
+    background-color: rgb(173, 109, 12);
 }
