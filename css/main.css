@@ -9,6 +9,10 @@
     color: aliceblue;
     background-color: rgb(206, 129, 14);
     border-radius: 3px;
+    transition:
+        margin 0.2s,
+        padding 0.2s,
+        background-color 0.2s;
 }
 
 .mustread a:hover {
